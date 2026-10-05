@@ -1,0 +1,6 @@
+{
+  "name": "OpenHands: AI Software Engineer",
+  "description": "Autonomous AI software engineering workbench featuring CodeAct agent loop, interactive terminal, workspace code editor, browser preview, and diff inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
